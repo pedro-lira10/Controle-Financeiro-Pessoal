@@ -182,7 +182,7 @@ table tbody tr td:last-child{
 }
 
 table thead th {
-    background: rgb(201, 9, 137);
+    background: rgb(248, 248, 248);
 
     font-weight: normal;
     padding: 1rem 2rem;
