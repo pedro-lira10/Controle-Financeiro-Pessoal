@@ -199,7 +199,7 @@ table tbody tr:hover {
 }
 
 table tbody td {
-    background:white;
+    background:rgb(104, 16, 16);
     padding: 1rem 2rem;
 }
 
